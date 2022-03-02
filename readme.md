@@ -22,6 +22,7 @@ https://forum.openwrt.org/t/adding-openwrt-support-for-xiaomi-redmi-router-ax6s-
 3. telnet 192.168.31.1
 
 username: root
-password: <your password>
+
+password: your password
 
 
