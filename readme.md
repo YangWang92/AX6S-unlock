@@ -1,9 +1,10 @@
-# UNLOCK AX6S
+# XIAOMI AX6S UNLOCK TUTORIAL (RB03) 
 
 ONLY FOR RESEARCH AND STUDY! 
 
 CONTACT ME IF YOU HAVE ANY CONCERNS!
 
+for more details https://forum.openwrt.org/t/adding-openwrt-support-for-xiaomi-redmi-router-ax6s-xiaomi-router-ax3200/111085/
 
 1. update firmware to stable version
 
