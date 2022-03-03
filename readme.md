@@ -30,3 +30,17 @@ password: your password
 ![image](https://user-images.githubusercontent.com/3883941/156363993-b6ea1b61-e1c7-464a-a797-e42e77e0394d.png)
 
 
+5. enable ssh/uart/telnet
+
+from 
+
+https://forum.openwrt.org/t/adding-openwrt-support-for-xiaomi-redmi-router-ax6s-xiaomi-router-ax3200/111085/18
+
+
+```bash
+nvram set telnet_en=1
+nvram set uart_en=1
+nvram set ssh_en=1
+nvram commit
+```
+
